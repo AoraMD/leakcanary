@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">shark-leak-sample</string>
+    <string name="execute">Execute</string>
+</resources>
